@@ -1,1 +1,1 @@
-redis
+calico/kube-controllers:v3.23.2
