@@ -1,1 +1,1 @@
-arm64v8/zookeeper
+centos:7
