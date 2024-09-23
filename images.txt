@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+emqx/emqx:5.8.0
